@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your portfolio website:
-
----
-
 # Sonwabiso Maloni Portfolio Website
 
 Welcome to the repository for Sonwabiso Maloni's portfolio website. This website showcases Sonwabiso's skills, projects, and experiences as a front-end developer.
@@ -38,7 +34,7 @@ The deployed version of this portfolio website can be accessed [here](https://so
 
 ## Usage
 To view the website locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone this repository: `git clone https://github.com/Sonwabiso1/SONMAL354_WFC2401_GroupA_Sonwabiso-Maloni_CDV05.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Open `index.html` in your web browser.
 
@@ -47,7 +43,3 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your specific needs and preferences!

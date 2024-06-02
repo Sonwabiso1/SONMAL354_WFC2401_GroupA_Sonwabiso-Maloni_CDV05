@@ -2,6 +2,7 @@
   "name": "sonwabisoportfolio",
   "version": "1.0.0",
   "description": "Welcome to the repository for Sonwabiso Maloni's portfolio website. This website showcases Sonwabiso's skills, projects, and experiences as a front-end developer.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

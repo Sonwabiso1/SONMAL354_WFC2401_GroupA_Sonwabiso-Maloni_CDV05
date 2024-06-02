@@ -1,19 +1,13 @@
 {
-  "name": "sonwabisoportfolio",
-  "version": "1.0.0",
-  "description": "Welcome to the repository for Sonwabiso Maloni's portfolio website. This website showcases Sonwabiso's skills, projects, and experiences as a front-end developer.",
-  "main": "index.js",
+  "name": "project",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sonwabiso1/SONMAL354_WFC2401_GroupA_Sonwabiso-Maloni_CDV05.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sonwabiso1/SONMAL354_WFC2401_GroupA_Sonwabiso-Maloni_CDV05/issues"
-  },
-  "homepage": "https://github.com/Sonwabiso1/SONMAL354_WFC2401_GroupA_Sonwabiso-Maloni_CDV05#readme"
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
 }

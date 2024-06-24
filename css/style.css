@@ -294,13 +294,15 @@ header {
 /*  My services section  */
 
 .my-services {
-    background-color: var(--clr-dark);
-    background-image: url(../img/services-bg.jpg);
+    background: var(--clr-dark) url(../img/services-bg.jpg);
     background-size: cover;
-    /* background-blend-mode: multiply; */
+    background-blend-mode: overlay; /* Can use different blend modes like multiply, overlay, etc. */
     color: var(--clr-light);
     text-align: center;
+    /* Use an RGBA color to add opacity */
+    background-color: rgba(0, 0, 0, 0.9); /* Adjust the alpha value for opacity */
 }
+
 
 .section__title--services {
     color: var(--clr-accent);
